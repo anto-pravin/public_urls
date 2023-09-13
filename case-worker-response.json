@@ -1,0 +1,9 @@
+{
+  "conversations": [
+    {
+      "male-response": "Hi, I'm Mike. We're a little nervous but also excited. We've been preparing for this for a while.",
+      "female-response": "Hey, I'm Julia. As Mike said we've wanted to adopt for a long time, and we're hoping everything goes well today.",
+      "intent": "greeting"
+    }
+  ]
+}
